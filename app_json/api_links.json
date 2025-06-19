@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "coins_list",
+    "link": "https://api.coingecko.com/api/v3/coins/list"
+  },
+  {
+    "id": 2,
+    "name": "coins_history",
+    "link": "https://api.coingecko.com/api/v3/coins/{}/history"
+  }
+]
